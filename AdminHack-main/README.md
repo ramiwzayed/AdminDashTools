@@ -1,24 +1,3 @@
-<img width="99.9%" src="https://raw.githubusercontent.com/ramiwzayed/ramiwzayed.menu.io/master/img/AdminHackImg/IMG-adc29ed25806177260186a4fbdbe70c9-V.jpg"/>
-
-<p align="center">
-<a href="mailto:developer.ramiwzayed@gmail.com"><img title="Report bug" src="https://img.shields.io/badge/email-developer.ramiwzayed%40gmail.com-darkred?style=for-the-badge&logo=gmail"></a>
-<a href="https://github.com/ramiwzayed/AdminHack"><img title="Version" src="https://img.shields.io/badge/Version-1.7.6-red?style=for-the-badge&logo="></a>
-<a href="https://github.com/ramiwzayed/AdminHack/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-red?style=for-the-badge&logo=gnu"></a>
-<a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.x-orange?style=for-the-badge&logo=python"></a>
-<a href="https://github.com/ramiwzayed"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-yellow?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/ramiwzayed"><img title="Autor" src="https://img.shields.io/badge/Author-ramiwzayed-yellow?style=for-the-badge&logo=github"></a>
-
-</p>
-
-<p align="center">
-• <a href="https://github.com/ramiwzayed/AdminHack/blob/main/LICENSE">License</a> 
-• <a href="https://github.com/ramiwzayed/AdminHack/issues">Issues</a> 
-• <a href="https://github.com/ramiwzayed">Developer</a> 
-• <a href="https://github.com/ramiwzayed/AdminHack/wiki">Wikipedia</a> •
-
-</p>
-
-
 **A script to find admin login pages and EAR vulnerabilites.**
 
 > I am not responsible for your actions.  By downloading software from this repository, you agree to the [license](https://github.com/ramiwzayed/AdminHack/blob/main/LICENSE).
@@ -57,7 +36,7 @@
 <details id="missing-code-coverage">
   <summary>Need Help</summary>
 
-#### Do you need help? Write me on: developer.mishakorzhik@gmail.com 
+#### Do you need help? Write me on: ramiwzayed@gmail.com 
 #### And I will consider your letter and problem!
 
 ```bash
@@ -68,7 +47,7 @@ ramiwzayed@gmail.com
 
 ---
 
-**Repository Views** ![Views](https://profile-counter.glitch.me/AdminHack/count.svg)
+
 
 
 
@@ -93,10 +72,3 @@ ramiwzayed@gmail.com
 6.<a href="https://github.com/ramiwzayed/IpHack">IpHack - Easy Tracking smartphones</a> <br>
 7.<a href="https://github.com/ramiwzayed/UserFinder">UserFinder - Find users in social</a> <br>
 8.<a href="https://github.com/ramiwzayed/Ultra-DDos">Ultra-DDos - Hing ddos bad sites</a> <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=mishakorzik&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
-
-## Supporters
-[![Stargazers repo roster for @ramiwzayed/AdminHack](https://reporoster.com/stars/ramiwzayed/AdminHack)](https://github.com/ramiwzayed/AdminHack/stargazers)
-[![Forkers repo roster for @ramiwzayed/AdminHack](https://reporoster.com/forks/ramiwzayed/AdminHack)](https://github.com/ramiwzayed/AdminHack/members)
-
