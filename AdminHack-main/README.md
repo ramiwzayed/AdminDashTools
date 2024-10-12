@@ -3,14 +3,14 @@
 > I am not responsible for your actions.  By downloading software from this repository, you agree to the [license](https://github.com/ramiwzayed/AdminHack/blob/main/LICENSE).
 
 #### Features
-Multi-threading on demand
-Big wordlist list (31371 patch)
-Supports php, asp and html extensions
-Checks for potential EAR vulnerabilite
-Support for custom patns
-Web Crawling
-Checks for robots.txt
-Saving results to file
+* `Multi-threading on demand`
+* `Big wordlist list (31371 patch)`
+* `Supports php, asp and html extensions`
+* `Checks for potential EAR vulnerabilite`
+* `Support for custom patns`
+* `Web Crawling`
+* `Checks for robots.txt`
+* `Saving results to file`
 
 ---
 ### Installing for linux
