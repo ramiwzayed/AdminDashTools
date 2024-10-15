@@ -22,6 +22,14 @@
 * `cd AdminHack`
 * `bash setup.sh`
 
+### Installing for Termux
+
+* `apt update`
+* `apt upgrade`
+* `apt install git`
+* `git clone https://github.com/ramiwzayed/AdminHack`
+* `cd AdminHack`
+* `bash setup.sh`
 
 #### Everything is ready! Now we are waiting for everything to download!
  * `success`
