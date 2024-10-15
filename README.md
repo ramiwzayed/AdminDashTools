@@ -56,18 +56,6 @@ ramiwzayed@gmail.com
 ---
 
 
-
-
-
-## Screenshot
-
-#### here you can see a screenshot of AdminHack
-<br>
-<p align="center">
-<img width="53.0%" src="src/IMG_20210809_124540.jpg"/> 
-<img width="44.5%" src="src/IMG_20210814_122526.jpg"/>
-</p>
-
 ###### By ramiwzayed: Report bug: ramiwzayed@gmail.com
 
 ## I recommend watching
