@@ -1,7 +1,3 @@
-**A script to find admin login pages and EAR vulnerabilites.**
-
-> I am not responsible for your actions.  By downloading software from this repository, you agree to the [license](https://github.com/ramiwzayed/AdminHack/blob/main/LICENSE).
-
 #### Features
 - [x] Multi-threading on demand
 - [x] Big wordlist list (31371 patch)
